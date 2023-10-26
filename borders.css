@@ -1,0 +1,29 @@
+div {
+    /* border-style:solid;
+    border-color:red;
+    border-width: 20px; */
+    border: solid red 20px;
+    border-radius: 20px;
+    height: 550px;
+    width: 500px;
+    background-color: blue;
+    display:inline-block;
+    color:#FFFFFF;
+    font-size: large;
+    border-top-style: dashed;
+    border-bottom-style: dashed;
+    margin-top:50px;
+    margin-left:50px;
+    margin-right:50px;
+
+    padding: 50px 40px 10px 40px;
+
+
+    border-right-color: green;
+    border-left-color: green;
+    outline-style: dashed;
+    outline-width: 20px;
+    outline-color: goldenrod;
+
+
+}

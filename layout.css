@@ -1,0 +1,16 @@
+h1 {
+    color:blue;
+    background-color: yellow;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+    display:block;
+    float:right;
+    margin-right: 30px;
+    margin-bottom: 20px;
+    
+
+
+}

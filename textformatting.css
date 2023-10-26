@@ -1,0 +1,26 @@
+
+
+h1 {
+    color:blue;
+    text-align: center;
+    text-decoration: overline;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    word-spacing: 10px;
+    text-shadow: 5px 8px 5px red;
+    font-family:sofia;
+    font-style: italic;
+    font-size: 100px;
+    font-weight: bolder;
+
+
+
+}
+
+p {
+    text-indent: 70px;
+    line-height: 1.8;
+    white-space: normal;
+    font-weight: bolder;
+
+}

@@ -1,0 +1,24 @@
+p {
+    color:red;
+    text-decoration: underline;
+}
+
+h1 {
+color:goldenrod; 
+font-size: 75px; 
+text-align: center;
+}
+
+#third_h1{
+color:blue;
+}
+
+/* this is a comment */
+
+div {
+ color:pink;
+}
+
+.move-to-right {
+    text-align: right;
+}
